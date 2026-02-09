@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515541187724",
+    "project_id": "bookmind-98a91",
+    "storage_bucket": "bookmind-98a91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515541187724:android:db7b197dcf054ae97b0fa9",
+        "android_client_info": {
+          "package_name": "com.example.bookmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqcZge9vbQgOGLY2FBaarbwJ4PgaGmDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
