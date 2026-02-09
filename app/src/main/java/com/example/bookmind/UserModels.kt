@@ -1,6 +1,6 @@
 package com.example.bookmind.models
 
-// Control de progreso de lectura personal
+// Control de progreso de lectura personal y listo
 data class LecturaActiva(
     val libroId: String = "",
     val tituloLibro: String = "",
@@ -12,7 +12,7 @@ data class LecturaActiva(
     val porcentaje: Int get() = (paginaActual * 100) / totalPaginas
 }
 
-// Perfil de usuario extendido
+// Perfil de usuario extendido y funcional
 data class Usuario(
     val uid: String = "",
     val nombre: String = "",
